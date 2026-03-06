@@ -1,3 +1,7 @@
+// Mary Catherine Shepherd
+// IS 413
+// Mission 9
+
 // Component that receives an array of teams and renders a list of `TeamCard`.
 // Defines a lightweight `Team` type and the `TeamListProps` shape.
 import TeamCard from './TeamCard'

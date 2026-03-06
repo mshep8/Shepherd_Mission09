@@ -1,3 +1,7 @@
+// Mary Catherine Shepherd
+// IS 413
+// Mission 9
+
 // Simple presentational component that renders the page heading
 // and a short welcome/description. No props required.
 function Heading() {
