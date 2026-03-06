@@ -1,3 +1,5 @@
+// Simple presentational component that renders the page heading
+// and a short welcome/description. No props required.
 function Heading() {
     return (
         <div>
